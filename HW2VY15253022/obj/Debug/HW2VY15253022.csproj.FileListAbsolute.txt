@@ -1,0 +1,21 @@
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe.config
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.pdb
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csprojResolveAssemblyReference.cache
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csproj.CoreCompileInputs.cache
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.exe
+C:\Users\hilal\source\repos\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.pdb
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe.config
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.pdb
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csprojResolveAssemblyReference.cache
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.exe
+C:\Users\hilal\Desktop\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.pdb
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe.config
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.exe
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\bin\Debug\HW2VY15253022.pdb
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csprojResolveAssemblyReference.cache
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.exe
+C:\Users\hilal\Desktop\VERİ YAPILARI\HW2VY15253022\HW2VY15253022\obj\Debug\HW2VY15253022.pdb
